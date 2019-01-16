@@ -1,8 +1,7 @@
 # Phonemes Dataset
 The 44 English phoneme sounds
 
-![Phonemes Table](./images/table.jpg)
-
+<img src="./images/table.jpg" alt="Phonemes Table" width="400" height="350">
 
 
 
